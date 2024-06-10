@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master's degree candidate from [Ocean College](http://oc.zju.edu.cn/global/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Huanghaocai](https://person.zju.edu.cn/bluedream).
+I'm currently a Master student in Mechanical Engineering (ME) at [Ocean College](http://oc.zju.edu.cn/global/main.htm), [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) since 2022 under the supervision of [Prof. Haocai Huang](https://person.zju.edu.cn/bluedream).
+
+I received my Bachelor’s Degree in Mechanical Engineering (ME) from [Shandong University of Science and Technology (SDUST)](https://en.sdust.edu.cn/) in 2022.
 
 A data-driven personal website
 ======
