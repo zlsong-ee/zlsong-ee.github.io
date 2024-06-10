@@ -13,9 +13,9 @@ I received my Bachelor’s Degree in Mechanical Engineering (ME) from [Shandong 
 
 Publications
 ======
-Z. Song, Z. Wu, and H. Huang, “Safety-critical containment control for multi-agent systems with communication delays,” IEEE Transactions on Network Science and Engineering, 2024, accepted, early access. [[Download]](../assets/2024_TNSE_3401592.pdf)
+***Z. Song***, Z. Wu, and H. Huang, “Safety-critical containment control for multi-agent systems with communication delays,” *IEEE Transactions on Network Science and Engineering*, 2024, accepted, early access. [[Download]](../assets/2024_TNSE_3401592.pdf)
 
-Z. Song, Z. Wu, and H. Huang, “Cooperative learning formation control of multiple autonomous underwater vehicles with prescribed performance based on position estimation,” Ocean Engineering, vol. 280, pp. 114635, July 2023, published. [[Download]](../assets/2023_OE_114635.pdf)
+***Z. Song***, Z. Wu, and H. Huang, “Cooperative learning formation control of multiple autonomous underwater vehicles with prescribed performance based on position estimation,” *Ocean Engineering*, vol. 280, pp. 114635, July 2023, published. [[Download]](../assets/2023_OE_114635.pdf)
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
