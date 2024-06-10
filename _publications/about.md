@@ -1,11 +1,3 @@
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I'm currently a Master student in Mechanical Engineering (ME) at [Ocean College](http://oc.zju.edu.cn/global/main.htm), [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) since 2022 under the supervision of [Prof. Haocai Huang](https://person.zju.edu.cn/bluedream).
 
