@@ -13,9 +13,19 @@ I received my Bachelor’s Degree in Mechanical Engineering (ME) from [Shandong 
 
 Publications
 ======
+### Journal Papers
 ***Z. Song***, Z. Wu, and H. Huang, “Safety-critical containment control for multi-agent systems with communication delays,” ***IEEE Transactions on Network Science and Engineering***, 2024, accepted, early access. [[Download]](../assets/2024_TNSE_3401592.pdf)
 
 ***Z. Song***, Z. Wu, and H. Huang, “Cooperative learning formation control of multiple autonomous underwater vehicles with prescribed performance based on position estimation,” ***Ocean Engineering***, vol. 280, pp. 114635, July 2023, published. [[Download]](../assets/2023_OE_114635.pdf)
+### Ongoing Works
+***Z. Song***, et.al. Bearing-only formation tracking control for multi-agent systems with time-varying velocity leaders, under review. [[Details]](../assets/Abstract_1.pdf)
+
+***Z. Song***, et.al. Robust safety critical control for multi-agent systems with bearing-only measurements, under review. [[Details]](../assets/Abstract_2.pdf)
+
+### Conference Papers
+***Z. Song***, Z. Wu, et al, “Finite-time Containment Control for Autonomous Underwater Vehicles with Prescribed Performance,” in *Proc. CACRE 2023*, Hong Kong, China, 2023, Oral Pre, published. [[Download]](../assets/CACRE2023.pdf)
+
+***Z. Song***, Z. Wu, et al, “Event-triggered output feedback containment control for multiagent systems,” in *Proc. ICAC 2023*, Birmingham, UK, 2023, Oral Pre, published. [[Download]](../assets/ICAC2023.pdf)
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
