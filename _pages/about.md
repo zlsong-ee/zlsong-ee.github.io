@@ -14,13 +14,16 @@ I received my Bachelor’s Degree in Mechanical Engineering (ME) from [Shandong 
 Publications
 ======
 ### Journal Papers
-***Z. Song***, Z. Wu, and H. Huang, “Safety-critical containment control for multi-agent systems with communication delays,” ***IEEE Transactions on Network Science and Engineering***, 2024, accepted, early access. [[Download]](../assets/2024_TNSE_3401592.pdf)
+***Z. Song***, M. Xie, and H. Huang, Bearing-only formation tracking control for multi-agent systems with time-varying velocity leaders, ***IEEE Control Systems Letters***, vol. 8, pp. 2027-2032, July 2024. [[Download]](../assets/Bearing-Only_Formation_Tracking_Control_for_Multi-Agent_Systems_With_Time-Varying_Velocity_Leaders.pdf)
 
-***Z. Song***, Z. Wu, and H. Huang, “Cooperative learning formation control of multiple autonomous underwater vehicles with prescribed performance based on position estimation,” ***Ocean Engineering***, vol. 280, pp. 114635, July 2023, published. [[Download]](../assets/2023_OE_114635.pdf)
+***Z. Song***, Z. Wu, and H. Huang, Safety-critical containment control for multi-agent systems with communication delays, ***IEEE Transactions on Network Science and Engineering***, 2024, accepted, early access. [[Download]](../assets/2024_TNSE_3401592.pdf)
+
+***Z. Song***, Z. Wu, and H. Huang, Cooperative learning formation control of multiple autonomous underwater vehicles with prescribed performance based on position estimation, ***Ocean Engineering***, vol. 280, pp. 114635, July 2023, published. [[Download]](../assets/2023_OE_114635.pdf)
+
 ### Ongoing Works
-***Z. Song***, et.al. Bearing-only formation tracking control for multi-agent systems with time-varying velocity leaders, under review. [[Details]](../assets/Abstract_1.pdf)
-
 ***Z. Song***, et.al. Robust safety critical control for multi-agent systems with bearing-only measurements, under review. [[Details]](../assets/Abstract_2.pdf)
+
+***Z. Song***, et.al. Safety-critical fixed-time formation control for UAVs with disturbance based on robust control barrier functions, under review. [[Details]](../assets/Abstract_3.pdf)
 
 ### Conference Papers
 ***Z. Song***, Z. Wu, et al, “Finite-time Containment Control for Autonomous Underwater Vehicles with Prescribed Performance,” in *Proc. CACRE 2023*, Hong Kong, China, 2023, Oral Pre, published. [[Download]](../assets/CACRE2023.pdf)
